@@ -1,0 +1,10 @@
+﻿consulta completa;consulta especifica;inserção singular;inserção multipla;remoção;update;mysql;;;;;;;;
+72;196;76;23;27;57;v1;;;;;;;;
+69;88;46;22;26;21;v2;;;;;;;;
+131;74;35;14;12;32;v3;;;;;;;;
+91;119;52;20;22;37;media;;;;;;;;
+consulta completa;consulta especifica;inserção singular;inserção multipla;remoção;update;mongodb;;;;;;;;
+5;6;7;27;11;64;v1;;;;;;;;
+2;12;8;9;10;20;v2;;;;;;;;
+7;5;9;7;43;18;v3;;;;;;;;
+5;8;8;14;21;34;media;;;;;;;;
